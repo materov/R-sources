@@ -39,6 +39,7 @@ highlight-style: pygments
 | Thomas Mock      | <https://themockup.blog/>              |
 | Taras Kaduk      | <https://taraskaduk.com/>              |
 | Masumbuko Semba  | <https://semba-blog.netlify.app/post/> |
+| Dmitry Shkolnik  | <https://www.dshkol.com/post/>         |
 | Josh McCrain     | <http://joshuamccrain.com/>            |
 | Restless Data    | <https://restlessdata.com.au/>         |
 | r-spatial        | <https://r-spatial.org/>               |
