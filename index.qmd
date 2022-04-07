@@ -2,7 +2,7 @@
 title: "Rесурсы"
 subtitle: "полезные ссылки на источники по языку программирования R"
 author: "Евгений Матеров"
-date: 2022-04-02
+date: 2022-04-05
 
 date-format: short
 
@@ -28,22 +28,25 @@ highlight-style: pygments
 
 # Блоги
 
-| Имя              | адрес                                  |
-|------------------|----------------------------------------|
-| Julia Silge      | <https://juliasilge.com/>              |
-| Emil Hvitfeldt   | <https://www.emilhvitfeldt.com/>       |
-| Nathan Yau       | <https://flowingdata.com/>             |
-| Dr. Dominic Royé | <https://dominicroye.github.io/en/>    |
-| Milos Popovic    | <https://milospopovic.net/>            |
-| Robin Lovelace   | <https://www.robinlovelace.net/>       |
-| Thomas Mock      | <https://themockup.blog/>              |
-| Taras Kaduk      | <https://taraskaduk.com/>              |
-| Masumbuko Semba  | <https://semba-blog.netlify.app/post/> |
-| Dmitry Shkolnik  | <https://www.dshkol.com/post/>         |
-| Josh McCrain     | <http://joshuamccrain.com/>            |
-| Restless Data    | <https://restlessdata.com.au/>         |
-| r-spatial        | <https://r-spatial.org/>               |
-| Сергей Мастицкий | <https://r-analytics.blogspot.com/>    |
+| Имя              | адрес                                   |
+|------------------|-----------------------------------------|
+| Julia Silge      | <https://juliasilge.com/>               |
+| Emil Hvitfeldt   | <https://www.emilhvitfeldt.com/>        |
+| Nathan Yau       | <https://flowingdata.com/>              |
+| Dr. Dominic Royé | <https://dominicroye.github.io/en/>     |
+| Milos Popovic    | <https://milospopovic.net/>             |
+| Robin Lovelace   | <https://www.robinlovelace.net/>        |
+| Thomas Mock      | <https://themockup.blog/>               |
+| Taras Kaduk      | <https://taraskaduk.com/>               |
+| Masumbuko Semba  | <https://semba-blog.netlify.app/post/>  |
+| Dmitry Shkolnik  | <https://www.dshkol.com/post/>          |
+| Josh McCrain     | <http://joshuamccrain.com/>             |
+| June Choe        | <https://yjunechoe.github.io/blog.html> |
+| Restless Data    | <https://restlessdata.com.au/>          |
+| r-spatial        | <https://r-spatial.org/>                |
+| RStudio AI Blog  | <https://blogs.rstudio.com/ai/>         |
+| mlr-org          | <https://mlr-org.com/blog.html>         |
+| Сергей Мастицкий | <https://r-analytics.blogspot.com/>     |
 
 # Книги
 
