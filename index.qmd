@@ -178,6 +178,8 @@ highlight-style: pygments
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | Introduction to Geospatial Raster and Vector Data with R: References                        | <https://uw-madison-datascience.github.io/r-raster-vector-geospatial/reference/>         |
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| Mapping Raster Data in the Tidyverse                                                        | <https://rpubs.com/timothyfraser/mapping_raster_data_in_the_tidyverse>                   |
++---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | Experimenting with machine learning in R with tidymodels and the Kaggle titanic dataset     | <https://oliviergimenez.github.io/blog/learning-machine-learning/>                       |
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | Binary image classification using Keras in R: Using CT scans to predict patients with Covid | <https://oliviergimenez.github.io/blog/image-classif/>                                   |
