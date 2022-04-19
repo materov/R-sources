@@ -2,7 +2,7 @@
 title: "Rесурсы"
 subtitle: "полезные ссылки на источники по языку программирования R"
 author: "Евгений Матеров"
-date: 2022-04-19
+date: 2022-04-20
 
 date-format: short
 
@@ -185,6 +185,8 @@ highlight-style: pygments
 | Binary image classification using Keras in R: Using CT scans to predict patients with Covid | <https://oliviergimenez.github.io/blog/image-classif/>                                   |
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | R Markdown Tips, Tricks, and Shortcuts                                                      | <https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/>                    |
++---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| Getting started with Python using R and reticulate                                          | <https://rtichoke.netlify.app/post/getting_started_with_reticulate/>                     |
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | Top 50 ggplot2 Visualizations                                                               | <http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html>             |
 +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
