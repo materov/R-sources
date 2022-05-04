@@ -2,7 +2,7 @@
 title: "Rесурсы"
 subtitle: "полезные ссылки на источники по языку программирования R"
 author: "Евгений Матеров"
-date: 2022-04-20
+date: today
 
 date-format: short
 
