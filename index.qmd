@@ -46,6 +46,7 @@ highlight-style: pygments
 | Alex Cookson             | <https://www.alexcookson.com/>          |
 | Ander Fernández Jauregui | <https://anderfernandez.com/en/blog/>   |
 | Jason Bryer              | <https://bryer.org/post/>               |
+| Albert Rapp              | <https://albert-rapp.de/post/>          |
 | R and rivers             | <https://ryanpeek.org/>                 |
 | r-spatial                | <https://r-spatial.org/>                |
 | RStudio AI Blog          | <https://blogs.rstudio.com/ai/>         |
