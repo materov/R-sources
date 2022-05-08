@@ -28,30 +28,31 @@ highlight-style: pygments
 
 # Блоги
 
-| Имя                      | адрес                                   |
-|--------------------------|-----------------------------------------|
-| Julia Silge              | <https://juliasilge.com/>               |
-| Emil Hvitfeldt           | <https://www.emilhvitfeldt.com/>        |
-| Nathan Yau               | <https://flowingdata.com/>              |
-| Dr. Dominic Royé         | <https://dominicroye.github.io/en/>     |
-| Milos Popovic            | <https://milospopovic.net/>             |
-| Robin Lovelace           | <https://www.robinlovelace.net/>        |
-| Thomas Mock              | <https://themockup.blog/>               |
-| Taras Kaduk              | <https://taraskaduk.com/>               |
-| Masumbuko Semba          | <https://semba-blog.netlify.app/post/>  |
-| Dmitry Shkolnik          | <https://www.dshkol.com/post/>          |
-| Josh McCrain             | <http://joshuamccrain.com/>             |
-| June Choe                | <https://yjunechoe.github.io/blog.html> |
-| Restless Data            | <https://restlessdata.com.au/>          |
-| Alex Cookson             | <https://www.alexcookson.com/>          |
-| Ander Fernández Jauregui | <https://anderfernandez.com/en/blog/>   |
-| Jason Bryer              | <https://bryer.org/post/>               |
-| Albert Rapp              | <https://albert-rapp.de/post/>          |
-| R and rivers             | <https://ryanpeek.org/>                 |
-| r-spatial                | <https://r-spatial.org/>                |
-| RStudio AI Blog          | <https://blogs.rstudio.com/ai/>         |
-| mlr-org                  | <https://mlr-org.com/blog.html>         |
-| Сергей Мастицкий         | <https://r-analytics.blogspot.com/>     |
+| Имя                      | адрес                                    |
+|--------------------------|------------------------------------------|
+| Julia Silge              | <https://juliasilge.com/>                |
+| Emil Hvitfeldt           | <https://www.emilhvitfeldt.com/>         |
+| Nathan Yau               | <https://flowingdata.com/>               |
+| Dr. Dominic Royé         | <https://dominicroye.github.io/en/>      |
+| Milos Popovic            | <https://milospopovic.net/>              |
+| Robin Lovelace           | <https://www.robinlovelace.net/>         |
+| Thomas Mock              | <https://themockup.blog/>                |
+| Taras Kaduk              | <https://taraskaduk.com/>                |
+| Masumbuko Semba          | <https://semba-blog.netlify.app/post/>   |
+| Programming with R       | <https://www.programmingwithr.com/post/> |
+| Dmitry Shkolnik          | <https://www.dshkol.com/post/>           |
+| Josh McCrain             | <http://joshuamccrain.com/>              |
+| June Choe                | <https://yjunechoe.github.io/blog.html>  |
+| Restless Data            | <https://restlessdata.com.au/>           |
+| Alex Cookson             | <https://www.alexcookson.com/>           |
+| Ander Fernández Jauregui | <https://anderfernandez.com/en/blog/>    |
+| Jason Bryer              | <https://bryer.org/post/>                |
+| Albert Rapp              | <https://albert-rapp.de/post/>           |
+| R and rivers             | <https://ryanpeek.org/>                  |
+| r-spatial                | <https://r-spatial.org/>                 |
+| RStudio AI Blog          | <https://blogs.rstudio.com/ai/>          |
+| mlr-org                  | <https://mlr-org.com/blog.html>          |
+| Сергей Мастицкий         | <https://r-analytics.blogspot.com/>      |
 
 # Книги
 
