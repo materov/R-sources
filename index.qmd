@@ -39,6 +39,7 @@ highlight-style: pygments
 | Thomas Mock              | <https://themockup.blog/>                |
 | Taras Kaduk              | <https://taraskaduk.com/>                |
 | Masumbuko Semba          | <https://semba-blog.netlify.app/post/>   |
+| Data Imaginist           | <https://www.data-imaginist.com/>        |
 | Programming with R       | <https://www.programmingwithr.com/post/> |
 | Dmitry Shkolnik          | <https://www.dshkol.com/post/>           |
 | Josh McCrain             | <http://joshuamccrain.com/>              |
@@ -234,6 +235,8 @@ highlight-style: pygments
 | Nature Geoscience                                                                           | <https://www.nature.com/ngeo/research-articles>                                                     |
 +---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
 | SlidesGo: Free Google Slides and PowerPoint templates to boost your presentations           | <https://slidesgo.com/>                                                                             |
++---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
+| Анализ текстов в R                                                                          | [tinyurl.com/y6snkqgh](tinyurl.com/y6snkqgh)                                                        |
 +---------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
 
 # Видеоблоги
