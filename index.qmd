@@ -49,6 +49,7 @@ highlight-style: pygments
 | Ander Fernández Jauregui | <https://anderfernandez.com/en/blog/>    |
 | Jason Bryer              | <https://bryer.org/post/>                |
 | Albert Rapp              | <https://albert-rapp.de/post/>           |
+| Harshvardhan             | <https://www.harsh17.in/blog/>           |
 | Yuri Vishnevsky          | <https://yuri.is/>                       |
 | R and rivers             | <https://ryanpeek.org/>                  |
 | r-spatial                | <https://r-spatial.org/>                 |
@@ -344,11 +345,13 @@ highlight-style: pygments
 
 # Shiny Examples
 
-+------------------------+----------------------------------------------+
-| Название               | адрес                                        |
-+========================+==============================================+
-| Hastings Half-Marathon | <https://matt-dray.github.io/hastings-half/> |
-+------------------------+----------------------------------------------+
++------------------------------------+----------------------------------------------+
+| Название                           | адрес                                        |
++====================================+==============================================+
+| Hastings Half-Marathon             | <https://matt-dray.github.io/hastings-half/> |
++------------------------------------+----------------------------------------------+
+| Unravel data manipulation examples | <https://nshrest.shinyapps.io/datawhats/>    |
++------------------------------------+----------------------------------------------+
 
 # Презентации
 
@@ -368,8 +371,8 @@ highlight-style: pygments
 
 # Meetups
 
-+---------------------+-------------------------------------+
-| Название            | адрес                               |
-+=====================+=====================================+
-| R meetups (Russian) | <https://meetups.rintro.ru/>        |
-+---------------------+-------------------------------------+
++---------------------+------------------------------------+
+| Название            | адрес                              |
++=====================+====================================+
+| R meetups (Russian) | <https://meetups.rintro.ru/>       |
++---------------------+------------------------------------+
