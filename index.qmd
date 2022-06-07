@@ -47,6 +47,7 @@ highlight-style: pygments
 | Restless Data            | <https://restlessdata.com.au/>           |
 | Alex Cookson             | <https://www.alexcookson.com/>           |
 | Ander Fernández Jauregui | <https://anderfernandez.com/en/blog/>    |
+| Amit Levinson            | <https://amitlevinson.com/#posts>        |
 | Jason Bryer              | <https://bryer.org/post/>                |
 | Albert Rapp              | <https://albert-rapp.de/post/>           |
 | Harshvardhan             | <https://www.harsh17.in/blog/>           |
@@ -383,8 +384,8 @@ highlight-style: pygments
 
 # Meetups
 
-+---------------------+-----------------------------------+
-| Название            | адрес                             |
-+=====================+===================================+
-| R meetups (Russian) | <https://meetups.rintro.ru/>      |
-+---------------------+-----------------------------------+
++---------------------+----------------------------------+
+| Название            | адрес                            |
++=====================+==================================+
+| R meetups (Russian) | <https://meetups.rintro.ru/>     |
++---------------------+----------------------------------+
