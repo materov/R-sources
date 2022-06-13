@@ -41,6 +41,7 @@ highlight-style: pygments
 | Masumbuko Semba          | <https://semba-blog.netlify.app/post/>   |
 | Data Imaginist           | <https://www.data-imaginist.com/>        |
 | Programming with R       | <https://www.programmingwithr.com/post/> |
+| Stats and R              | <https://statsandr.com/blog/>            |
 | Dmitry Shkolnik          | <https://www.dshkol.com/post/>           |
 | Josh McCrain             | <http://joshuamccrain.com/>              |
 | June Choe                | <https://yjunechoe.github.io/blog.html>  |
