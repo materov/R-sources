@@ -54,6 +54,7 @@ highlight-style: pygments
 | Harshvardhan             | <https://www.harsh17.in/blog/>           |
 | Yuri Vishnevsky          | <https://yuri.is/>                       |
 | R and rivers             | <https://ryanpeek.org/>                  |
+| mlampros                 | <https://mlampros.github.io/>            |
 | r-spatial                | <https://r-spatial.org/>                 |
 | RStudio AI Blog          | <https://blogs.rstudio.com/ai/>          |
 | mlr-org                  | <https://mlr-org.com/blog.html>          |
