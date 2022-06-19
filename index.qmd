@@ -417,6 +417,8 @@ highlight-style: pygments
 +-------------------------------------------------+--------------------------------------------------------------------------------------+
 | Introduction to the Tidyverse data manipulation | <https://oliviergimenez.github.io/reproducible-science-workshop/slides/3_dplyr.html> |
 +-------------------------------------------------+--------------------------------------------------------------------------------------+
+| CÉDRIC SCHERER \[Selected Presentations\]       | <https://www.cedricscherer.com/top/about/#presentations>                             |
++-------------------------------------------------+--------------------------------------------------------------------------------------+
 
 # Meetups
 
