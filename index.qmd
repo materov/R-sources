@@ -54,6 +54,7 @@ highlight-style: pygments
 | Albert Rapp              | <https://albert-rapp.de/post/>           |
 | Harshvardhan             | <https://www.harsh17.in/blog/>           |
 | Yuri Vishnevsky          | <https://yuri.is/>                       |
+| Katie Press              | <https://kpress.dev/blog/>               |
 | R and rivers             | <https://ryanpeek.org/>                  |
 | mlampros                 | <https://mlampros.github.io/>            |
 | r-spatial                | <https://r-spatial.org/>                 |
