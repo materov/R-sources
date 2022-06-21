@@ -40,6 +40,7 @@ highlight-style: pygments
 | Taras Kaduk              | <https://taraskaduk.com/>                |
 | Masumbuko Semba          | <https://semba-blog.netlify.app/post/>   |
 | Data Imaginist           | <https://www.data-imaginist.com/>        |
+| June Choe                | <https://yjunechoe.github.io/blog.html>  |
 | Programming with R       | <https://www.programmingwithr.com/post/> |
 | Stats and R              | <https://statsandr.com/blog/>            |
 | Dmitry Shkolnik          | <https://www.dshkol.com/post/>           |
@@ -258,6 +259,10 @@ highlight-style: pygments
 | **stenR**                                                                                                                                                                                                                                                                                | <https://statismike.github.io/stenR/index.html>                                  |
 |                                                                                                                                                                                                                                                                                          |                                                                                  |
 | > {stenR} is a package tailored mainly for users and creators of psychological questionnaires, though other social science researchers and survey authors can benefit greatly from it.                                                                                                   |                                                                                  |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
+| **accessibility**                                                                                                                                                                                                                                                                        | <https://ipeagit.github.io/accessibility/>                                       |
+|                                                                                                                                                                                                                                                                                          |                                                                                  |
+| > {accessibility} offers a set of fast and convenient functions to calculate multiple transport accessibility measures.                                                                                                                                                                  |                                                                                  |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
 
 # Полезные ссылки
