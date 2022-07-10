@@ -53,6 +53,8 @@ highlight-style: pygments
 +----------------------------------------------------+------------------------------------------+
 | June Choe                                          | <https://yjunechoe.github.io/blog.html>  |
 +----------------------------------------------------+------------------------------------------+
+| ONE WORLD (TidyTerra & Maps)                       | <https://dieghernan.github.io/blog/>     |
++----------------------------------------------------+------------------------------------------+
 | Programming with R                                 | <https://www.programmingwithr.com/post/> |
 +----------------------------------------------------+------------------------------------------+
 | Stats and R                                        | <https://statsandr.com/blog/>            |
@@ -464,21 +466,21 @@ highlight-style: pygments
 
 # Tidy Tuesday Dataviz
 
-+----------------------+-------------------------------------------------------+
-| Ресурс / имя         | адрес                                                 |
-+======================+=======================================================+
-| Cédric Scherer       | <https://github.com/z3tt/TidyTuesday/tree/main/plots> |
-+----------------------+-------------------------------------------------------+
-| Georgios Karamanis   | <https://github.com/gkaramanis/tidytuesday>           |
-+----------------------+-------------------------------------------------------+
-| Jake Kaupp           | <https://github.com/jkaupp/tidytuesdays>              |
-+----------------------+-------------------------------------------------------+
-| Jenn Schilling       | <https://github.com/jennschilling/tidytuesday-2021>   |
-|                      |                                                       |
-|                      | <https://github.com/jennschilling/tidytuesday-2022>   |
-+----------------------+-------------------------------------------------------+
-| Maia Pelletier       | <https://github.com/MaiaPelletier/tidytuesday>        |
-+----------------------+-------------------------------------------------------+
++--------------------+-------------------------------------------------------+
+| Ресурс / имя       | адрес                                                 |
++====================+=======================================================+
+| Cédric Scherer     | <https://github.com/z3tt/TidyTuesday/tree/main/plots> |
++--------------------+-------------------------------------------------------+
+| Georgios Karamanis | <https://github.com/gkaramanis/tidytuesday>           |
++--------------------+-------------------------------------------------------+
+| Jake Kaupp         | <https://github.com/jkaupp/tidytuesdays>              |
++--------------------+-------------------------------------------------------+
+| Jenn Schilling     | <https://github.com/jennschilling/tidytuesday-2021>   |
+|                    |                                                       |
+|                    | <https://github.com/jennschilling/tidytuesday-2022>   |
++--------------------+-------------------------------------------------------+
+| Maia Pelletier     | <https://github.com/MaiaPelletier/tidytuesday>        |
++--------------------+-------------------------------------------------------+
 
 # Курсы
 
