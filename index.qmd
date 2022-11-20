@@ -2,16 +2,19 @@
 title: "Rесурсы"
 subtitle: "полезные ссылки на источники по языку программирования R"
 author: "Евгений Матеров"
-date: today
 
+date: today
 date-format: short
 
 lang: ru
 
+# spacelab
+# yeti
 format:
   html:
-    light: default
-    dark:  darkly
+    theme: 
+      light: [flatly, theme.scss]
+      dark: [darkly, theme.scss]
 editor: visual
 
 toc: true
@@ -505,6 +508,10 @@ highlight-style: pygments
 | **camcorder**                                                                                                                                                                                                                                                                                                                                                                                                                                                              | <https://thebioengineer.github.io/camcorder/index.html>                                  |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                          |
 | > `{camcorder}` is an an R package to track and automatically save graphics generated with [ggplot2](https://ggplot2.tidyverse.org/) that are created across one or multiple sessions with the eventual goal of creating a GIF showing all the plots saved sequentially during the design process.                                                                                                                                                                         |                                                                                          |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| **mlr3spatiotempcv**                                                                                                                                                                                                                                                                                                                                                                                                                                                       | <https://mlr3spatiotempcv.mlr-org.com/articles/spatiotemp-viz.html>                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                          |
+| > `{mlr3spatiotempcv}` makes use of `{plotly}` to create the 3D plots for visualizing spatiotemporal folds created via the CLUTO algorithm. Arranging multiple 3D plots in `{plotly}` is done via [3D subplots](https://plotly.com/r/3d-subplots/).                                                                                                                                                                                                                        |                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | **geemap (Python)**                                                                                                                                                                                                                                                                                                                                                                                                                                                        | <https://github.com/giswqs/geemap>                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                          |
