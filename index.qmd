@@ -172,6 +172,10 @@ highlight-style: pygments
 |                                                                                                                |                                                                    |
 |                                                                                                                | <https://geocompr.github.io/>                                      |
 +----------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| Geocomputation with Python                                                                                     | <https://geocompr.github.io/py/>                                   |
+|                                                                                                                |                                                                    |
+|                                                                                                                | <https://github.com/geocompr/py>                                   |
++----------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
 | Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny                                       | <https://www.paulamoraga.com/book-geospatial/index.html>           |
 +----------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
 | Hands-On Spatial Data Science with R                                                                           | <https://spatialanalysis.github.io/handsonspatialdata/>            |
