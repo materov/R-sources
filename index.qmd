@@ -913,7 +913,9 @@ highlight-style: pygments
 |                                                                                            |                                                                                      |
 | Democratizing Data Science Teams With Quarto                                               |                                                                                      |
 |                                                                                            |                                                                                      |
-| boB Rudis                                                                                  |                                                                                      |
+| (boB Rudis)                                                                                |                                                                                      |
++--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| Having fun with iFrames (Quarto) (Emil Hvitfeldt)                                          | <https://emilhvitfeldt.github.io/quarto-iframe-examples/>                            |
 +--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | Quarto: create beautiful documents with R, Python, Julia and Observable (Runapp 2022 talk) | <https://runapp2022.talks.jamesgoldie.dev/>                                          |
 |                                                                                            |                                                                                      |
@@ -931,7 +933,7 @@ highlight-style: pygments
 +--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | Jittering and routing options for converting origin-destination data into route networks   | <https://www.robinlovelace.net/presentations/its-jittering.html>                     |
 |                                                                                            |                                                                                      |
-| Robin Lovelace                                                                             |                                                                                      |
+| (Robin Lovelace)                                                                           |                                                                                      |
 +--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 
 # Meetups
