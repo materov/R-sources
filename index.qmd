@@ -903,6 +903,8 @@ highlight-style: pygments
 +--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | CÉDRIC SCHERER \[Selected Presentations\]                                                  | <https://www.cedricscherer.com/top/about/#presentations>                             |
 |                                                                                            |                                                                                      |
+|                                                                                            | <https://z3tt.github.io/hands-on-ggplot2/>                                           |
+|                                                                                            |                                                                                      |
 |                                                                                            | <https://z3tt.github.io/hands-on-ggplot2/slides/04-annotation.html#1>                |
 +--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
 | Quarto as Reveal.js Slides                                                                 | <https://jeremy-allen.github.io/quarto-demo/#/>                                      |
