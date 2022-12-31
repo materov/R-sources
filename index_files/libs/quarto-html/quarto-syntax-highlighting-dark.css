@@ -12,14 +12,14 @@
   --quarto-hl-bn-color: #40a070;
   --quarto-hl-al-color: #ff0000;
   --quarto-hl-va-color: #19177c;
-  --quarto-hl-bu-color: inherit;
+  --quarto-hl-bu-color: #008000;
   --quarto-hl-ex-color: inherit;
   --quarto-hl-pp-color: #bc7a00;
   --quarto-hl-in-color: #60a0b0;
   --quarto-hl-vs-color: #4070a0;
   --quarto-hl-wa-color: #60a0b0;
   --quarto-hl-do-color: #ba2121;
-  --quarto-hl-im-color: inherit;
+  --quarto-hl-im-color: #008000;
   --quarto-hl-ch-color: #4070a0;
   --quarto-hl-dt-color: #902000;
   --quarto-hl-fl-color: #40a070;
@@ -89,6 +89,10 @@ code span.va {
   color: #19177c;
 }
 
+code span.bu {
+  color: #008000;
+}
+
 code span.pp {
   color: #bc7a00;
 }
@@ -112,6 +116,11 @@ code span.wa {
 code span.do {
   color: #ba2121;
   font-style: italic;
+}
+
+code span.im {
+  color: #008000;
+  font-weight: bold;
 }
 
 code span.ch {
